@@ -10,7 +10,7 @@ function RootLayout({ children }) {
     <html lang="en">
       <body>
         {children}
-        <footer>Page rendered on {timeStamp}</footer>
+        <footer>Page rendered on {timeStamp}. Copyright 2025</footer>
       </body>
     </html>
   );
